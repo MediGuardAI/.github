@@ -26,4 +26,3 @@ This approach enhances **medication safety** by offering patient-specific insigh
 
 ---
 
-⚕️ **Empowering healthcare with AI for safer medications!**
