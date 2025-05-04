@@ -1,4 +1,4 @@
-# MediGuard AI – An Interactive Drug Interaction and Side Effect Predictor using LLMs with RAG-based Chat Assistance
+# MediGuard AI – An Interactive Drug Interaction and Side Effect Predictor using LLMs with RAG-based Chat Assistance (All repositories will be publicly available soon )
 
 ## 🚀 About
 MediGuard AI is an advanced AI-driven drug interaction and side effect predictor that leverages **Large Language Models (LLMs)** fine-tuned on medical datasets. Unlike traditional static systems, **MediGuard AI** integrates **Retrieval-Augmented Generation (RAG)**-based chat assistance to provide:
